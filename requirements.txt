@@ -1,1 +1,11 @@
-
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+lime
+shap
+joblib
+google-generativeai
+jupyter
+xgboost
