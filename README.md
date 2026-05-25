@@ -22,7 +22,7 @@ The system predicts whether a candidate should be hired or rejected based on his
 
 ### Live Application
 
-🚀 Streamlit App: [Open Application](PASTE_YOUR_STREAMLIT_LINK_HERE)
+🚀 Streamlit App: [Open Application](https://readmemd-bbth25vujbajpyncpaxvxw.streamlit.app)
 
 ---
 
